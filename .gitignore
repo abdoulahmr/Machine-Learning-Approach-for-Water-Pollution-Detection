@@ -3,5 +3,6 @@
 __pycache__/
 /results/
 catboost_info/
+gitignore
 shap_force_plot.html
 water_quality_publishable.ipynb
